@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/Lyncolnlopes">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Lyncolnlopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncolnlopes&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Lyncolnlopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="490px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncolnlopes&layout=compact&langs_count=7&theme=dracula" />
 
 </div>
   <img align="left" width="130" height="130" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
@@ -27,4 +27,6 @@
   <div>
      <a href="https://www.linkedin.com/in/lyncoln-araujo-2ba4641a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:lyncolnnegao7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      ![Snake animation](https://github.com/Lyncolnlopes/Lyncolnlopes/blob/output/github-contribution-grid-snake.svg)
+      
   </div>
