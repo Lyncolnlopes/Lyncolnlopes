@@ -11,7 +11,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncolnlopes&layout=compact&langs_count=7&theme=dracula" />
 
 </div>
-  <img align="right" width="130" height="130" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="right" width="170" height="170" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
